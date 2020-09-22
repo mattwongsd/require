@@ -2,7 +2,7 @@
   "name": "require",
   "description": "javascript module management! brings node's require statement to the browser",
   "version": "2.4.20",
-  "homepage": "https://github.com/marcuswestin/require",
+  "homepage": "https://github.com/mattwongsd/require",
   "main": "./require",
   "bin": "./bin/require-command.js",
   "engines": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git://github.com/marcuswestin/require.git"
   },
-  "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in)",
+  "author": "Marcus Westin <narcvs@gmail.com> (http://marcuswest.in), Forked by Matthew Wong",
   "dependencies": {
     "std": "0.1.40",
     "uglify-js": "^2.8.29"
